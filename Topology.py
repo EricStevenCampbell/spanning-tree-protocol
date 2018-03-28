@@ -1,5 +1,4 @@
-# Defines a Topology, which is a collection of switches and links between them. Students should not
-# modify this file.  This is NOT a topology like the ones defined in Mininet projects.
+# Defines a Topology, which is a collection of switches and links between them. 
 
 from Switch import *
 
