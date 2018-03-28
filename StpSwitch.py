@@ -1,5 +1,5 @@
-# This defines a Spanning Tree Switch that serves as a Parent class to the switch class to be 
-# implemented by the student.  It abstracts details of sending messages and verifying topologies.
+# This defines a Spanning Tree Switch that serves as a Parent class to the switch class.
+# It abstracts details of sending messages and verifying topologies.
 
 from Message import *
         	          
