@@ -1,5 +1,4 @@
 # Script to validate output 
-# Based on Project 2 Autograder by Michael Brown
 
 import os
 import getopt
